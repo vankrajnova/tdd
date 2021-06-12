@@ -1,0 +1,10 @@
+
+superlists/lists/__init__.py
+superlists/lists/__pycache__/__init__.cpython-39.pyc
+superlists/lists/__pycache__/tests.cpython-39.pyc
+.idea/misc.xml
+.idea/misc.xml
+superlists/lists/apps.py
+superlists/lists/admin.py
+superlists/lists/migrations/__init__.py
+superlists/lists/migrations/__pycache__/__init__.cpython-39.pyc
